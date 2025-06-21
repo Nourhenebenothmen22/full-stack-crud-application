@@ -1,12 +1,53 @@
-# React + Vite
+# 👨‍💼 Système CRUD de Gestion des Employés
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Une application complète de gestion des employés avec une interface utilisateur moderne, réactive et intuitive.
 
-Currently, two official plugins are available:
+---
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## ✨ Fonctionnalités
 
-## Expanding the ESLint configuration
+- ✅ **Ajout d'employés** : Formulaire intuitif avec validation des champs
+- 📋 **Affichage des employés** : Tableau interactif avec pagination et tri
+- ✏️ **Mise à jour des informations** : Edition fluide des données
+- 🗑️ **Suppression** : Confirmation avant suppression pour éviter les erreurs
+- 🎨 **Design moderne** : UI élégante avec dégradés, animations et transitions
+- 📱 **Responsive** : Parfaitement adapté à tous les écrans (mobile, tablette, desktop)
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+---
+
+## 🛠️ Technologies Utilisées
+
+### 🧑‍💻 Frontend
+- [React](https://reactjs.org/) (avec Hooks)
+- [Axios](https://axios-http.com/) – Pour la communication avec le backend
+- [React Hot Toast](https://react-hot-toast.com/) – Pour les notifications conviviales
+- [Bootstrap 5](https://getbootstrap.com/)
+- CSS3 – Pour des styles personnalisés
+
+### 🖥 Backend
+- [Node.js](https://nodejs.org/)
+- [Express.js](https://expressjs.com/)
+- [MongoDB](https://www.mongodb.com/) avec [Mongoose](https://mongoosejs.com/)
+
+### 🧰 Outils
+- [Git](https://git-scm.com/) – Suivi de version
+- [Visual Studio Code](https://code.visualstudio.com/)
+
+---
+
+## 📸 Aperçu de l'Interface
+![image](https://github.com/user-attachments/assets/06d468b0-a957-41a8-993f-626f3d31b0bc)
+
+---
+
+## 🚀 Installation et Exécution
+
+### 📦 Prérequis
+- Node.js **v22.12.0**
+- MongoDB (local ou via **MongoDB Atlas**)
+
+### 🔧 Étapes
+
+1. **Clonez le dépôt**
+   ```bash
+ (https://github.com/Nourhenebenothmen22/full-stack-crud-application)
