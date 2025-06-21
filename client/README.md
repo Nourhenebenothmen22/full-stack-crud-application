@@ -46,8 +46,5 @@ Une application complète de gestion des employés avec une interface utilisateu
 - Node.js **v22.12.0**
 - MongoDB (local ou via **MongoDB Atlas**)
 
-### 🔧 Étapes
-
 1. **Clonez le dépôt**
-   ```bash
  (https://github.com/Nourhenebenothmen22/full-stack-crud-application)
